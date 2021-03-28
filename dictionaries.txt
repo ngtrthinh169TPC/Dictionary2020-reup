@@ -1,0 +1,164 @@
+access	truy cập
+after	sau
+airplane	máy bay
+alarm	chuông báo thức
+analyze	phân tích
+appear	xuất hiện
+apple	quả táo
+baseball	bóng chày
+basketball	bóng rổ
+bee	con ong
+black	màu đen
+bonus	phần thưởng (thêm)
+book	quyển sách
+bottle	cái bình nước, cái chai nước
+bread	bánh mì
+breadcrumb	vụn bánh mì, bột chiên giòn
+bright	sáng
+bring	mang theo
+brother	anh em trai
+button	nút bấm, cúc áo
+cake	bánh kem
+calculator	máy tính cầm tay
+candy	kẹo (cứng)
+carrot	củ cà rốt (giải nghĩa vô dụng vl)
+cat	con mèo
+cheese	phô mai
+cinnamon	quế
+circle	hình tròn
+class	lớp
+clock	cái đồng hồ
+close	đóng (cửa)
+cloud	mây
+color	màu sắc
+communicate	giao tiếp
+computer	máy tính
+control	điều khiển
+count	đếm
+cup	cái cốc, cúp
+curry	cà ri
+date	ngày, cuộc hẹn
+dawn	bình minh
+dentist	nha sĩ
+dictionary	từ điển
+dinosaur	con khủng long
+dog	con chó
+dolphin	cá heo
+door	cánh cửa
+dragon	con rồng
+draw	vẽ
+drug	thuốc
+dusk	hoàng hôn
+dust	bụi
+edit	sửa đổi, thay đổi
+egg	trứng
+empty	trống, rỗng
+equal	bằng nhau
+event	sự kiện
+except	ngoại trừ
+exception	ngoại lệ
+explain	giải thích
+false	sai
+fan	cái quạt, người hâm mô
+final	cuối cùng, chung kết
+fire	lửa
+first	đầu tiên
+fish	con cá
+flour	bột mì, bột, rắc bột
+font	phông chữ
+food	đồ ăn
+football	bóng đá, bóng bầu dục
+forget	quên
+fox	con cáo
+free	miễn phí, tự do
+friend	bạn bè
+give up	bỏ cuộc
+gold	vàng (kim loại)
+green	màu xanh lá
+happy	hạnh phúc
+hard	cứng
+hardware	phần cứng
+head	đầu
+hello	xin chào
+hero	người hùng
+high	cao
+history	lịch sử
+homesick	nhớ nhà
+hunter	thợ săn
+ice cream	cái kem
+idea	ý tưởng
+invention	sự phát minh
+invite	mời
+key	chìa khóa, khóa
+language	ngôn ngữ
+late	muộn
+legend	huyền thoại
+library	thư viện
+listen	nghe
+lock	khóa
+lotus	hoa sen
+mail	thư
+manage	quản lí
+map	bản đồ
+market	chợ
+maroon	đỏ thẫm
+memory	trí nhớ, bộ nhớ, kỉ niệm
+music	âm nhạc
+nail	móng
+night	buổi đêm
+number	số
+object	vật thể, đối tượng, vật
+oil	dầu
+option	lựa chọn
+orange	quả cam, màu cam
+phone	điện thoại
+physic	vật lí
+pink	màu hồng
+pointer	con trỏ
+potato	củ khoai tây
+prevent	ngăn chặn, ngăn cản
+queen	nữ hoàng, hoàng hậu
+red	màu đỏ
+remember	nhớ
+result	kết quả
+room	căn phòng
+rose	hoa hồng
+run	chạy
+school	trường học
+search	tìm kiếm
+shoe	cái giày
+sick	ốm
+signal	tín hiệu
+silver	bạc (Ag)
+six	số sáu (6)
+snow	tuyết
+software	phần mềm
+song	bài hát
+spider	con nhện
+star	ngôi sao
+stay	ở lại
+step	bước
+stop	dừng
+strategy	chiến lược
+sugar	đường (ngọt)
+sun	mặt trời
+sunflower	hoa hướng dương
+super	siêu
+support	hỗ trợ
+system	hệ thống
+target	mục tiêu
+temperature	nhiệt độ
+time	thời gian, lần
+travel	du lịch, di chuyển
+true	đúng
+type	gõ (chữ)
+update	cập nhật
+version	phiên bản
+week	tuần
+whale	cá mập
+win	thắng
+window	cửa sổ
+wood	gỗ, cây
+xenophilia	sự sính ngoại
+year	năm (chỉ thời gian)
+yellow	màu vàng

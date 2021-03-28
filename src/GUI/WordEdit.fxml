@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.control.ToggleButton?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="360.0" prefWidth="540.0" style="-fx-background-color: #ddeeff;" xmlns="http://javafx.com/javafx/8.0.261" xmlns:fx="http://javafx.com/fxml/1" fx:controller="GUI.WordEditController">
+   <children>
+      <AnchorPane layoutX="60.0" layoutY="50.0" prefHeight="300.0" prefWidth="470.0" style="-fx-background-color: #ffeeee; -fx-border-color: #ddcccc;">
+         <children>
+            <TextArea fx:id="wordExplainUI" disable="true" layoutX="10.0" layoutY="65.0" prefHeight="230.0" prefWidth="450.0">
+               <font>
+                  <Font size="13.0" />
+               </font>
+            </TextArea>
+            <TextField fx:id="wordTargetUI" disable="true" layoutX="10.0" layoutY="20.0" prefHeight="25.0" prefWidth="250.0">
+               <font>
+                  <Font name="System Bold" size="12.0" />
+               </font>
+            </TextField>
+            <Label layoutX="10.0" prefHeight="20.0" prefWidth="75.0" text="Word Target" textFill="#0000aa">
+               <font>
+                  <Font name="System Bold Italic" size="12.0" />
+               </font>
+            </Label>
+            <Label layoutX="10.0" layoutY="45.0" prefHeight="20.0" prefWidth="85.0" text="Word Explain" textFill="#0000aa">
+               <font>
+                  <Font name="System Bold Italic" size="12.0" />
+               </font>
+            </Label>
+         </children></AnchorPane>
+      <Button blendMode="MULTIPLY" layoutY="70.0" mnemonicParsing="false" onAction="#saveButtonClicked" prefHeight="25.0" prefWidth="60.0" text="Save" />
+      <Button blendMode="MULTIPLY" layoutY="215.0" mnemonicParsing="false" onAction="#discardButtonClicked" prefHeight="25.0" prefWidth="60.0" text="Discard" />
+      <Button blendMode="MULTIPLY" layoutY="250.0" mnemonicParsing="false" onAction="#resetButtonClicked" prefHeight="25.0" prefWidth="60.0" text="Reset" />
+      <Button blendMode="MULTIPLY" layoutY="285.0" mnemonicParsing="false" onAction="#deleteButtonClicked" prefHeight="25.0" prefWidth="60.0" text="Delete" textFill="RED" />
+      <Button fx:id="confirmDeleteButton" blendMode="MULTIPLY" disable="true" layoutY="320.0" mnemonicParsing="false" onAction="#confirmDeleteButtonClicked" prefHeight="25.0" prefWidth="60.0" text="Confirm" textFill="RED" />
+      <ToggleButton fx:id="editTargetToggle" blendMode="MULTIPLY" layoutY="105.0" mnemonicParsing="false" onAction="#editTargetToggleTriggered" prefHeight="45.0" prefWidth="60.0" text="Edit Target" textAlignment="CENTER" wrapText="true" />
+      <ToggleButton fx:id="editExplainToggle" blendMode="MULTIPLY" layoutY="160.0" mnemonicParsing="false" onAction="#editExplainToggleTriggered" prefHeight="45.0" prefWidth="60.0" text="Edit Explain" textAlignment="CENTER" wrapText="true" />
+   </children>
+</AnchorPane>
